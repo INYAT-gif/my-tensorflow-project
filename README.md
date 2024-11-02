@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/4ac7109e-a1c8-4fb0-98f3-50285bcfaf64)
 # my-tensorflow-project
 <div>Teachable Machine Audio Model</div>
 <button type="button" onclick="init()">Start</button>
